@@ -1,4 +1,6 @@
-![alt text](<Analyse de sentiments.PNG>)
+<img width="316" alt="Analyse de sentiments" src="https://github.com/Djamel-yod/NLP-Analyses-de-Sentiments/assets/60408184/a1de4b3a-5fa0-4947-95d3-3d2fa34c61f7">
+
+
 Sur ce projet, je renforce mes compétences en Traitement du Language Naturel (NLP) et en Machine Learning avec le package sklearn de python.
 
 ## Contexte
