@@ -5,9 +5,9 @@ Sur ce projet, je renforce mes compétences en **Traitement du Language Naturel 
 
 ## Contexte
 
-J'utilise dans ce projet les techniques de Traitement de Langage Naturel (NLP) et le Machine learning pour analyser les sentiments de milliers de tweets traitants de sujets variés. 
+J'utilise dans ce projet les techniques de Traitement de Langage Naturel (NLP) et le Machine learning pour analyser les sentiments de milliers de tweets traitant de sujets variés. 
 
-L'analyse de sentiments peut être utilisée dans de nombreux domaines tels que: 
+L'analyse de sentiments peut être utilisée dans de nombreux domaines tels que : 
 
 * Le marketing : pour analyser l'efficacité des campagnes marketing et comprendre les réactions des clients aux produits et services.
 
@@ -31,7 +31,7 @@ L'analyse de sentiments peut être utilisée dans de nombreux domaines tels que:
 
 ## Résultats
 
-La Régression Logistique donne de meilleures performances de prédictions. Notre modèle est à mésure d'identifier correctement **87,66%** des tweets négatifs (**Spécificité**) et **90,50%** des tweets positifs(**Précision**).
+La Régression Logistique donne de meilleures performances de prédiction. Notre modèle est à mesure d'identifier correctement **87,66%** des tweets négatifs (**Spécificité**) et **90,50%** des tweets positifs(**Précision**).
 
 <a href="#">#NLP</a>
 <a href="#">#MachineLearning</a>
